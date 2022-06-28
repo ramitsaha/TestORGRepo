@@ -1,4 +1,4 @@
-funtion testfunc1()
+function testfuncss()
 {
   var tt = "tt";
 }
